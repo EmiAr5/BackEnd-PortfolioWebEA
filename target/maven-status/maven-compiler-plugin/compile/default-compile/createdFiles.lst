@@ -1,0 +1,6 @@
+com\portfolio\EmAr\dto\PersonaDto.class
+com\portfolio\EmAr\EmArApplication.class
+com\portfolio\EmAr\service\PersonaService.class
+com\portfolio\EmAr\controller\PersonaController.class
+com\portfolio\EmAr\model\Persona.class
+com\portfolio\EmAr\controller\Mensaje.class

@@ -21,7 +21,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 @RequestMapping("/idioma")
-@CrossOrigin(origins = "https://portfoliowebemar.web.app")
+@CrossOrigin(origins = "https://portfoliowebemar.firebaseapp.com/")
 public class IdiomaController {
 
     @Autowired

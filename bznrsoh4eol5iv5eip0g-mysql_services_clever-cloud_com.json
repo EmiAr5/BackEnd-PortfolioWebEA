@@ -1,0 +1,66 @@
+[
+{"type":"header","version":"4.8.4","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"bznrsoh4eol5iv5eip0g"},
+{"type":"table","name":"educacion","database":"bznrsoh4eol5iv5eip0g","data":
+[
+{"id":"1","carrera":"Programador Web","fechafin":"2023","fechainicio":"2022","institucion":"Ministerio de Economía (Argentina Programa)","puntaje":"-","tituloobtenido":"Full Stack Developer Junior","urllogoinst":"https:\/\/i.ibb.co\/tHKHssL\/logo-Arg-Programa.png"},
+{"id":"2","carrera":"Profesorado de Matemática","fechafin":"2010","fechainicio":"2006","institucion":"Instituto Superior del Profesorado 'Dr. Joaquin V. Gonzalez'","puntaje":"8.14","tituloobtenido":"Profesora de Matemática","urllogoinst":"https:\/\/i.ibb.co\/VH4jMMf\/JVG.jpg"}
+]
+}
+,{"type":"table","name":"experiencia","database":"bznrsoh4eol5iv5eip0g","data":
+[
+{"id":"1","compania":"Microsoft Corporation","descripciontrabajo":"Colaboración en el equipo responsable de la arquitectura, las operaciones, la seguridad y las actividades de optimización en las plataformas de bases de datos relacionales. (Advertencia: Esta experiencia es solo a modo de ejemplo, no he trabajado en Microsoft Corporation)","fechafin":"Actual","fechainicio":"mar. 2022","puesto":"Desarrollador SQL Jr.","urllogocomp":"https:\/\/i.ibb.co\/TYD7rs9\/Microsoft-logo.png"},
+{"id":"2","compania":"IBM","descripciontrabajo":"Colaboración en la adaptación del diseño de la web a diversos dispositivos y navegadores.  (Advertencia: Esta experiencia es solo a modo de ejemplo, no he trabajado en IBM)","fechafin":"dic. 2021","fechainicio":"mar. 2021","puesto":"Diseñador FrontEnd","urllogocomp":"https:\/\/i.ibb.co\/xC0zN5m\/ibm-logo.png"},
+{"id":"3","compania":"Mercado Libre","descripciontrabajo":"Colaboración en la creación de herramientas que mejoren la interacción entre usuario y web. (Advertencia: Esta experiencia es solo a modo de ejemplo, no he trabajado en Mercado Libre)","fechafin":"dic. 2018","fechainicio":"mar. 2018","puesto":"Diseñador FrontEnd","urllogocomp":"https:\/\/i.ibb.co\/jbSp5qG\/pngwing-com.png"},
+{"id":"4","compania":"Twitter","descripciontrabajo":"Colaboración con desarrolladores, diseñadores y administradores del sistema para identificar nuevas funciones. (Advertencia: Esta experiencia es solo a modo de ejemplo, no he trabajado en Twitter)","fechafin":"dic. 2017","fechainicio":"mar. 2017","puesto":"Diseñador BackEnd","urllogocomp":"https:\/\/i.ibb.co\/fxQ0pBV\/3938028.png"}
+]
+}
+,{"type":"table","name":"hardskill","database":"bznrsoh4eol5iv5eip0g","data":
+[
+{"id":"1","nombre":"HTML","porcentaje":"70"},
+{"id":"2","nombre":"CSS","porcentaje":"70"},
+{"id":"3","nombre":"Administración de base de datos","porcentaje":"60"}
+]
+}
+,{"type":"table","name":"idioma","database":"bznrsoh4eol5iv5eip0g","data":
+[
+{"id":"1","escritura":"nativo","lectura":"nativo","nombre":"Español","oralidad":"nativo"},
+{"id":"2","escritura":"intermedio","lectura":"avanzado","nombre":"Inglés","oralidad":"avanzado"}
+]
+}
+,{"type":"table","name":"persona","database":"bznrsoh4eol5iv5eip0g","data":
+[
+{"id":"1","acercade":"Profesora de Matemática, originaria de C.A.B.A, actualmente viviendo en Córdoba.  Desde la pandemia me he interesado en la programación de manera recreacional, motivo por el cual me inscribí en el curso de Argentina Programa para conocer más acerca de esta profesión.","apellido":"Arduzzo","celular":"3541 2568792456","email":"earduzzo@gmail.com.ar","fechanac":"13\/11\/1987","nombre":"Emiliana","ocupacion":"Full Stack Developer Jr.","paisresidencia":"Argentina","urlbanner":"https:\/\/i.ibb.co\/qmPYF5W\/banner-Portfolio.gif","urlfoto":"https:\/\/i.ibb.co\/vZJQs1S\/foto-perfil-cuadrada.jpg"}
+]
+}
+,{"type":"table","name":"proyecto","database":"bznrsoh4eol5iv5eip0g","data":
+[
+{"id":"1","descripcion":"Proyecto creado a partir de la cursada de Argentina Programa, como trabajo integrador final de los componentes estudiados.  Se utilizó para el desarrollo del proyecto: Angular, SpringBoot y MySQL.","enlace":"https:\/\/portfolioemar.web.app\/","fechafin":"2023","fechainicio":"2022","nombre":"Portfolio Web Argentina Programa","urlimagen":"https:\/\/i.ibb.co\/LrqTcXr\/proyecto1.png"},
+{"id":"2","descripcion":"Colaboración en el desarrollo del Front End para la página de \"Rocco Ceselin Photographer Travel\".\n  (Advertencia: Este proyecto es solo a modo de ejemplo, no he participado en su desarrollo)","enlace":"https:\/\/roccostudio.net\/","fechafin":"2019","fechainicio":"2018","nombre":"Rocco Studio","urlimagen":"https:\/\/i.ibb.co\/4Yg5DPm\/proyecto2.png"}
+]
+}
+,{"type":"table","name":"rol","database":"bznrsoh4eol5iv5eip0g","data":
+[
+{"id":"1","rol_nombre":"ROLE_ADMIN"},
+{"id":"2","rol_nombre":"ROLE_USER"}
+]
+}
+,{"type":"table","name":"softskill","database":"bznrsoh4eol5iv5eip0g","data":
+[
+{"id":"1","nombre":"Manejo del tiempo","porcentaje":"85"},
+{"id":"2","nombre":"Trabajo en equipo","porcentaje":"90"},
+{"id":"3","nombre":"Atención al detalle","porcentaje":"90"}
+]
+}
+,{"type":"table","name":"usuario","database":"bznrsoh4eol5iv5eip0g","data":
+[
+{"id":"1","email":"earduzzo@gmail.com","nombre":"Emiliana","nombre_usuario":"EmAr","password":"$2a$10$7nrYzwPVjwvz8pFL1Z\/ilec0BGkUP\/rn5si7N6WPbMS9m.RMxZPwi"}
+]
+}
+,{"type":"table","name":"usuario_rol","database":"bznrsoh4eol5iv5eip0g","data":
+[
+{"usuario_id":"1","rol_id":"1"},
+{"usuario_id":"1","rol_id":"2"}
+]
+}
+]
